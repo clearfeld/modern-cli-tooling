@@ -105,7 +105,7 @@
   <h1 align="center">
     <a href="https://github.com/phiresky/ripgrep-all"><code>ripgrep-all</code></a>
   </h1>
-  <p align="center">rga: <a href="https://github.com/clearfeld/modern-cli-tooling/edit/main/README.md#----ripgrep--"><code>ripgrep</code></a>, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.</p>
+  <p align="center">rga: <a href="https://github.com/clearfeld/modern-cli-tooling/tree/main#----ripgrep--"><code>ripgrep</code></a>, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.</p>
     
   <table>
     <tr>
