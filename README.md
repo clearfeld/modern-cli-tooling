@@ -78,6 +78,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/sharkdp/hyperfine"><code>hyperfine</code></a>
+  </h1>
+  <p align="center">A command-line benchmarking tool.</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://camo.githubusercontent.com/88a0cb35f42e02e28b0433d4b5e0029e52e723d8feb8df753e1ed06a5161db56/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
   </h1>
   <p align="center">The next gen file listing command. Backwards compatible with <code>ls</code>.</p>
