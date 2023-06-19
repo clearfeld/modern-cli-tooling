@@ -28,6 +28,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/sharkdp/fd"><code>fd</code></a>
+  </h1>
+  <p align="center">A simple, fast and user-friendly alternative to <code>find</code>.</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://github.com/sharkdp/fd/raw/master/doc/screencast.svg" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
   </h1>
   <p align="center">The next gen file listing command. Backwards compatible with <code>ls</code>.</p>
