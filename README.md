@@ -99,3 +99,28 @@
     <img src="https://camo.githubusercontent.com/fe9229337cbfaffcf22d52a1e363f268a3c68901acc8f66116bf8705655e92b0/68747470733a2f2f6275726e7473757368692e6e65742f73747566662f72697067726570312e706e67" width="600" />
   </p>
 </div>
+
+
+<div align="center">
+  <h1 align="center">
+    <a href="https://github.com/phiresky/ripgrep-all"><code>ripgrep-all</code></a>
+  </h1>
+  <p align="center">rga: <a href="https://github.com/clearfeld/modern-cli-tooling/edit/main/README.md#----ripgrep--"><code>ripgrep</code></a>, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.</p>
+    
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://github.com/phiresky/ripgrep-all/raw/master/doc/demodir.png" width="600" />
+  </p>
+</div>
