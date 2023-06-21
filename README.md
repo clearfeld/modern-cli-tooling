@@ -195,3 +195,28 @@
     <img src="https://github.com/phiresky/ripgrep-all/raw/master/doc/demodir.png" width="600" />
   </p>
 </div>
+
+
+<div align="center">
+  <h1 align="center">
+    <a href="https://github.com/ajeetdsouza/zoxide"><code>zoxide</code></a>
+  </h1>
+  <p align="center">A smarter <code>cd</code> command inspired by <code>z</code>.</p>
+    
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:*</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://github.com/ajeetdsouza/zoxide/raw/main/contrib/tutorial.webp" width="600" />
+  </p>
+</div>
