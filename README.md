@@ -149,9 +149,9 @@
 
 <div align="center">
   <h1 align="center">
-    <a href="https://github.com/Peltoche/lsd"><code>lsd</code></a>
+    <a href="https://github.com/casey/just"><code>just</code></a>
   </h1>
-  <p align="center">The next gen file listing command. Backwards compatible with <code>ls</code>.</p>
+  <p align="center">Just is a command runner, similar to <code>make</code> but more user-friendly and cross platform.</p>
   
   <table>
     <tr>
@@ -167,7 +167,7 @@
   </table>
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Peltoche/lsd/assets/screen_lsd.png" width="600" />
+    <img src="https://raw.githubusercontent.com/casey/just/master/screenshot.png" width="600" />
   </p>
 </div>
 
