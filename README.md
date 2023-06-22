@@ -78,6 +78,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/sharkdp/hexyl"><code>hexyl</code></a>
+  </h1>
+  <p align="center">An alternative to <code>xxd</code> with colorful output.</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://camo.githubusercontent.com/4f3b061081e6148c03e7a5dc9a2a6f6fb01b5f2ce7fe8135c9b3b427d9b356ac/68747470733a2f2f692e696d6775722e636f6d2f447037576e637a2e706e67" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/sharkdp/hyperfine"><code>hyperfine</code></a>
   </h1>
   <p align="center">A command-line benchmarking tool.</p>
