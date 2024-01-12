@@ -21,7 +21,7 @@
   </table>
   
   <p align="center">
-    <img src="https://camo.githubusercontent.com/c436c206f2c86605ab2f9fb632dd485afc05fccbf14af472770b0c59d876c9cc/68747470733a2f2f692e696d6775722e636f6d2f326c53573452452e706e67" width="600" />
+    <img src="https://camo.githubusercontent.com/be35879c510cea3111901d01e4af4d7e8f38fbb7c56a49ca711f07edf1b2d6fd/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67" width="600" />
   </p>
 </div>
 
@@ -168,6 +168,31 @@
   
   <p align="center">
     <img src="https://raw.githubusercontent.com/casey/just/master/screenshot.png" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
+    <a href="https://github.com/Macchina-CLI/macchina"><code>macchina</code></a>
+  </h1>
+  <p align="center">A system information frontend (written in rust) with an emphasis on performance.</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Macchina-CLI/macchina/main/assets/preview.png" width="600" />
   </p>
 </div>
 
