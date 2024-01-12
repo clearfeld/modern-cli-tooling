@@ -28,6 +28,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/wagoodman/dive"><code>dive</code></a>
+  </h1>
+  <p align="center">A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/wagoodman/dive/main/.data/demo.gif" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/sharkdp/fd"><code>fd</code></a>
   </h1>
   <p align="center">A simple, fast and user-friendly alternative to <code>find</code>.</p>
@@ -121,7 +146,7 @@
   </table>
   
   <p align="center">
-    <img src="https://camo.githubusercontent.com/88a0cb35f42e02e28b0433d4b5e0029e52e723d8feb8df753e1ed06a5161db56/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
+    <img src="https://camo.githubusercontent.com/ed09194016a09ea928cb15891075ec0babc0033e785dfbdb14803913a7fb478b/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
   </p>
 </div>
 
@@ -217,7 +242,7 @@
   </table>
   
   <p align="center">
-    <img src="https://camo.githubusercontent.com/fe9229337cbfaffcf22d52a1e363f268a3c68901acc8f66116bf8705655e92b0/68747470733a2f2f6275726e7473757368692e6e65742f73747566662f72697067726570312e706e67" width="600" />
+    <img src="https://burntsushi.net/stuff/ripgrep1.png" width="600" />
   </p>
 </div>
 
