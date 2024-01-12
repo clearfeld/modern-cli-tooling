@@ -224,6 +224,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/dalance/procs"><code>procs</code></a>
+  </h1>
+  <p align="center">A modern replacement for <code>ps</code> written in Rust</p>
+    
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/4331004/55446625-5e5fce00-55fb-11e9-8914-69e8640d89d7.png" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/BurntSushi/ripgrep"><code>ripgrep</code></a>
   </h1>
   <p align="center">An extremely fast alternative to <code>grep</code>, that respects your gitignore.</p>
