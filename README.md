@@ -249,6 +249,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/lsd-rs/lsd"><code>lsd</code></a>
+  </h1>
+  <p align="center">The next gen ls command</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/lsd-rs/lsd/assets/screen_lsd.png" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/Macchina-CLI/macchina"><code>macchina</code></a>
   </h1>
   <p align="center">A system information frontend (written in rust) with an emphasis on performance.</p>
