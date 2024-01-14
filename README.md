@@ -28,6 +28,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/dandavison/delta"><code>delta</code></a>
+  </h1>
+  <p align="center">A syntax-highlighting pager for git, diff, and grep output</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/52205/87230973-412eb900-c381-11ea-8aec-cc200290bd1b.png" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/wagoodman/dive"><code>dive</code></a>
   </h1>
   <p align="center">A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.</p>
