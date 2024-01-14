@@ -153,6 +153,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/orf/gping"><code>gping</code></a>
+  </h1>
+  <p align="center">Ping, but with a graph</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/sharkdp/hexyl"><code>hexyl</code></a>
   </h1>
   <p align="center">An alternative to <code>xxd</code> with colorful output.</p>
