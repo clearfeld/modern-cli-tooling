@@ -53,6 +53,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/bootandy/dust"><code>dust</code></a>
+  </h1>
+  <p align="center">A more intuitive version of du in rust</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/bootandy/dust/master/media/snap.png" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/sharkdp/fd"><code>fd</code></a>
   </h1>
   <p align="center">A simple, fast and user-friendly alternative to <code>find</code>.</p>
