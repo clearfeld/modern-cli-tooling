@@ -128,6 +128,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/wader/fq"><code>fq</code></a>
+  </h1>
+  <p align="center">jq for binary formats - tool, language and decoders for working with binary and text formats</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/wader/fq/539f15d0a983f7a05ba3ce3ef19fb9b5f79a81ff/doc/demo.svg" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/junegunn/fzf"><code>fzf</code></a>
   </h1>
   <p align="center">A general purpose command-line fuzzy finder.</p>
