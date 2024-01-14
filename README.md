@@ -28,6 +28,31 @@
 
 <div align="center">
   <h1 align="center">
+    <a href="https://github.com/Canop/broot"><code>broot</code></a>
+  </h1>
+  <p align="center">A new way to see and navigate directory trees</p>
+  
+  <table>
+    <tr>
+      <th>Windows</th>
+      <th>OSX</th>
+      <th>Unix</th>
+    </tr>
+    <tr>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+      <td align="center">:heavy_check_mark:</td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Canop/broot/main/website/docs/img/20230930-overview.png" width="600" />
+  </p>
+</div>
+
+
+<div align="center">
+  <h1 align="center">
     <a href="https://github.com/dandavison/delta"><code>delta</code></a>
   </h1>
   <p align="center">A syntax-highlighting pager for git, diff, and grep output</p>
